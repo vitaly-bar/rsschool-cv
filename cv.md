@@ -7,3 +7,5 @@ I have more than a year of experience as a QA engineer. At the moment, I am a pr
 I'm watching SwiftBook courses, in my spare time
 ## Education
 Volgograd State Technical University
+## Languages
+I studied English at school and university, I rate my level in A1 or A2
